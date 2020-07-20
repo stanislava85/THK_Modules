@@ -1,0 +1,48 @@
+Module 1: What is code? Reading and reflection.
+
+Module 1 Objective: To read and reflect on the nature of code and
+creation through digitized data and software.
+
+Read Article:
+https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+Answer the following questions in a .txt file saved as: What_is_code_reflection
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard?
+(150 words max)
+When you type a letter on the keyboard a signal (some lines of code) is sent to the computer. The computer analyzes the signal (the letter) and matches it to the corresponding code for it stored in its memory. Then, the computer pulls the corresponding code and puts it in a space of its memory that manages the computer screen, in order to display the letter.  
+
+In your own words, how do computers use input and output to create experiences? (250 words
+max)
+The way I understand this question is how different software uses input in order to display/use information in accordance to what the program/device it’s used for. The way computers are everywhere nowadays, used for almost everything. The input is the information/code coming in to the device and the output is the result. Let’s say, voice operated lights in the house - the input that comes to the computer is the voice command, the output is that the lights change their condition - they turn on/off or dim. 
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+Computers are everywhere nowadays, their number grows tremendously on a daily basis. This means that more and more data is produced on a daily basis and more and more software is needed for it to be analysed. When one software is created and another one is needed after that to fix the existing issues of the first one, and optimize it. More software is usually needed for implementing more features to an already created product, like this the new code is forced on/implemented on top of the old one and more bugs are created, for which more software is needed, and it goes on and on. Software products are infinitely reproducible nothings because you can technically ship nothing and charge for it. 
+
+Explain in your own words how code becomes software. (150 words max)
+The idea of code is to be a logical, precise set of instructions that could be “understood” by a computer. Thus, the computer takes your well written code, transforms it into a “language” that it could understand and executes it, outputs the results - that is how software works. Once the lines of code are executable, have purpose behind them and are needed by a certain individual/industry for making their daily life easier and better, they become software.
+
+Explain “algorithms” in your own words. (150 words max)
+Algorithms are used in software in order to tell computers how to solve problems. When we write code we create algorithms. Algorithms are step by step instructions that are executed by computers in order for them to achieve the final goal of solving a certain problem. Algorithms are used in every programming language, most of them come for free and can be reused. 
+
+Explain the DRY principle. (100 words max)
+DRY stands for “Don’t Repeat Yourself”. In programming it means that you should only do a certain thing once and not repeat yourself in order to avoid redundancy. Information should be stored in only one place, things should be named once, functions should be created once and etc. When you start to repeat in your code, do copy+paste and so on, you create a bad quality of code. The idea of the DRY principle is to have clean, neat and easy to read lines of code.
+
+In your own words, what is object-oriented programming? (100 words max)
+Object oriented languages are all an adaptation of C. Object oriented programming has functions related to the data they manipulate, it is about creating objects that contain both data and methods. With object oriented programming it is easy to organize everything in your code, so that it is neat and you could find it later. It is possible to name things and build up a library. Object oriented programming provides a clear structure for the programs and helps maintain the DRY principle.
+
+In your own words explain data and how it relates to code. (100 Words max)
+When writing code for a software or website you usually need to manipulate data in order to get certain results. Data is stored in large databases hosted on different massive servers. Nowadays there is data everywhere and almost every machine/computer produces data continuously. All this data needs to be dealt with, organised, analysed, correlated, manipulated in a certain manner - this is all a problem that programming has to solve. It’s almost impossible to manipulate a large amount of data without having to use some lines of code, which means that data and coding go together almost all the time.
+
+What is a framework? (150 words max)
+Framework is a platform for developing software applications. It is the foundation on which developers build programs for specific platforms. Using frameworks makes it easier to write code because you can recycle lines of code that were pre-written, to the point that it could get too easy... For each language there are different types of frameworks that you could choose from when programming depending on the purpose of the code/application you are creating. Most good frameworks are free to use.
+
+What is debugging? (150 words max)
+Programming and debugging always go together. When writing code it is almost always expected that there will be some errors along the way - “bugs”. These bugs could cause the program to crash, get stuck, act weird, keep on repeating the same action and etc. Debugging is very important as it detects and removes existing and potential errors. The difference between testing and debugging is that testing makes sure the program is working the way it is supposed to (and it’s generally done by testers) and debugging is the process of finding bugs in the program (done by developers).
+
+
+Now, with more of an understanding of what code is, why do you want to learn how to code?
+(500 words max)
+Code is everywhere. Coding is the future. At some point almost everything in our lives will be controlled by code and software. Everything is becoming digitized and it is my opinion that if you want to be compatible in the tech industry you should be very good at coding or at least understand code to a certain extent, depending on your position in a given company. 
+I have always been fascinated by what happens behind the scenes of all these gadgets, devices and cool applications we use on a daily basis. What are the operations that actually trigger the final results and how are they calculated, what is the logic behind, how does a computer understand us and essentially how do we come to speak the same language. 
+It is my dream to master one coding language - Python preferably. I believe that with hard work and dedication everything is achievable. I have already started exploring the world of coding over 1 year ago and I am determined to continue doing so and succeed in my goal.
+
