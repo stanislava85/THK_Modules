@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>To Do List</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merienda&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="header">
+      <h1 style="margin:5px">My To Do List</h1>
+      <input type="text" id="myInput" placeholder="Title...">
+      <span onclick="newElement()" class="addBtn">Add</span>
+    </div>
+    <ul id="myUL">
+      <li class="checked">Complete TKH Vestibule Summer Program</li>
+      <li>Start practicing Python</li>
+      <li>Don't forget my hobbies</li>
+      <li class="checked">Update my resume</li>
+      <li>Create a Python Project</li>
+      <li>Network</li>
+      <li>Walk + yoga</li>
+    </ul>
+    <button type="button" id="clear-list" onclick="removeAll()">Clear Items</button>
+    <script src="js/myscript.js"></script>
+  </body>
+  </html>
