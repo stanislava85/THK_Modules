@@ -5,9 +5,9 @@ let arr1 = ["Wesley Snipes", "Nicholas Cage", "Nasir Jones", "Sean Carter", "Sea
 let first_name = [];
 let last_name = [];
 for (i = 0; i < arr1.length; i++) {
-  let split_name = arr1[0].split(" ");
-    first_name.append(split_name[0]);
-    last_name.append(split_name[1]);
+  let split_name = arr1[i].split(" ");
+    first_name.push(split_name[0]);
+    last_name.push(split_name[1]);
 }
 console.log(first_name);
 console.log(last_name);
