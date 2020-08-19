@@ -1,0 +1,30 @@
+:root{
+	--first-color: #BCF5A9;
+	--second-color: #F5A9F2;
+	--third-color: #990099;
+	--fourth-color: black;
+	--font:'Merienda';
+	--shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  
+}
+html{font-size:calc(1em+1vm)}
+button{font-size:inherit}
+input{font-size:inherit}
+
+body{
+	font-family:var(--font);
+	margin:0;
+	background-color:var(--first-color);
+	padding-top:4rem;
+	display:grid;
+	justify-items:center;
+}
+.container{
+  background-color:#848484;
+  padding: 90px 90px;
+  color: var(--second-color);
+  text-align: right;
+  border-radius:10px;
+}
+
+
